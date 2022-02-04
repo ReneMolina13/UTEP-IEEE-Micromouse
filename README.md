@@ -8,7 +8,7 @@
    <p align="center">
      UTEP IEEE Micromouse project repository
      </br>
-     <a href="workshops/Intro to micromouse presentation/"><strong>See intro presentation</strong></a>
+     <a href="workshops/Intro to micromouse presentation.pdf"><strong>See intro presentation</strong></a>
      </br>
   </p>
 </div>
@@ -27,8 +27,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Micromouse kit](img/micromouse_0.png)
+</br>
+<div align="center">
+  <img src="img/micromouse_0.png" width="240" height="240">
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
