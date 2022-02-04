@@ -2,13 +2,12 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-	<img src="img/micromouse_logo.png" width="80" height="80">
-	<h3 align="center">UTEP IEEE Micromouse</h3>
-	
-	<p align="center">
-		UTEP IEEE Micromouse project repository
-		<a href=""><strong>Explore Documentation</strong></a>
-	</p>
+  <img src="img/micromouse_logo.png" width="160" height="160">
+  <h3 align="center">UTEP IEEE Micromouse</h3>
+   <p align="center">
+     UTEP IEEE Micromouse project repository
+     <a href=""><strong>Explore Documentation</strong></a>
+  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
