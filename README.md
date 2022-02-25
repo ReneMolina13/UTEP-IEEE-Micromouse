@@ -29,7 +29,10 @@
 ## About The Project
 </br>
 <div align="center">
-  <img src="img/micromouse_0.png" width="240" height="240">
+  IEEE UTEP Micromouse repository where you can find template code, schematics and workshops
+  to build and get your mouse working. This repository was designed to be used with the micromouse
+  kit shown in the schematics folder. The workshops will guide you through the necessary code to 
+  have your mouse solving a micromouse maze.
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
