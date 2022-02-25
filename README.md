@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 </br>
-<div align="center">
+<div align="left">
   IEEE UTEP Micromouse repository where you can find template code, schematics and workshops
   to build and get your mouse working. This repository was designed to be used with the micromouse
   kit shown in the schematics folder. The workshops will guide you through the necessary code to 
@@ -41,8 +41,7 @@
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-
+To contribute, please fork the project and send a pull request or talk to any of the UTEP IEEE officers. For any other questions please use the contact info at the bottom to contact the owner of this repo.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -69,5 +68,7 @@ Project Link: [https://github.com/amartinezacosta/UTEP-IEEE-Micromouse](https://
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+University of Texas at El Paso
+IEEE University of Texas at El Paso branch
 
 <p align="right">(<a href="#top">back to top</a>)</p>
