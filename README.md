@@ -68,7 +68,8 @@ Project Link: [https://github.com/amartinezacosta/UTEP-IEEE-Micromouse](https://
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-University of Texas at El Paso
-IEEE University of Texas at El Paso branch
+[University of Texas at El Paso](https://www.utep.edu/)
+
+[IEEE University of Texas at El Paso branch](https://edu.ieee.org/us-utep/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
