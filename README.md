@@ -35,15 +35,18 @@
   have your mouse solving a micromouse maze.
   
   Take a look at:
+  
   - [Schematics](micromouse_arduino_nano_kit/Micromouse Arduino Nano.pdf)
   - [Workshops](workshops/)
+  - [Code](code_template/)
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
-    To contribute, please fork the project and send a pull request or talk to any of the UTEP IEEE officers. For any other questions please use the contact info at the bottom to contact the owner of this repository.
+
+To contribute, please fork the project and send a pull request or talk to any of the UTEP IEEE officers. For any other questions please use the contact info at the bottom to contact the owner of this repository.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
