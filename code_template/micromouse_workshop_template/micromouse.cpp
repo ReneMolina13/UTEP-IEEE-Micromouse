@@ -1,8 +1,14 @@
 #include "micromouse.h"
 
 /*YOU MUST INSTALL MPU6050 LIBRARY FOR THIS PORTION OF THE CODE!*/
-//#include "MPU6050.h"
+//#include <MPU6050.h>
 //MPU6050 gyro; 
+
+/*YOU MUST INSTALL ENCODER LIBRARY BY PAUL STOFFREGEN*/
+//#include <Encoder.h>
+
+//Encoder right_encoder(ENCODER_0_CHA, ENCODER_0_CHB);
+//Encoder left_encoder(ENCODER_1_CHA, ENCODER_1_CHB); 
 
 /*Motors  Code******************/
 void motors_init(void)
@@ -58,4 +64,12 @@ float gyro_get_yaw(float dt)
 }
 
 /*Control loop code**********************/
- 
+void control_forward(void)
+{
+    
+}  
+
+void control_turn(float target_angle)
+{
+    
+}

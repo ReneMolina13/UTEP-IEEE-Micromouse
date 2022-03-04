@@ -41,4 +41,7 @@ int ir_3_read(int delay);
 void gyro_init(void);
 float gyro_get_yaw(float dt);
 
+void control_forward();
+void control_turn(float target_angle);
+
 #endif
