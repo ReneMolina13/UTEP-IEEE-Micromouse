@@ -36,7 +36,7 @@
   
   Take a look at:
   
-  - [Schematics](micromouse_arduino_nano_kit/Micromouse Arduino Nano.pdf)
+  - [Schematics](micromouse_arduino_nano_kit/Micromouse_Arduino_Nano.pdf)
   - [Workshops](workshops/)
   - [Code](code_template/)
 </div>
