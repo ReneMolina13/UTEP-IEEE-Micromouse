@@ -6,11 +6,14 @@
 
 #include <Arduino.h>
 
-#define MAZE_WIDTH    8
-#define MAZE_HEIGHT   8
+#define MAZE_WIDTH    4 
+#define MAZE_HEIGHT   4
 
 #define X_POS(x)  (x & 0x0F)
 #define Y_POS(y)  ((y << 4) & 0xF0)
+
+#define GET_X_POS(x)  (x & 0x0F)
+#define GET_Y_POS(y)  (y >> 4)
 
 #define NORTH   (1 << 0)
 #define EAST    (1 << 1)
@@ -37,6 +40,9 @@ int8_t maze_set_wall(uint8_t x, uint8_t y, uint8_t wall);
 int8_t maze_get_walls(uint8_t x, uint8_t y);
 int8_t maze_set_value(uint8_t x, uint8_t y, uint8_t value);
 int8_t maze_get_value(uint8_t x, uint8_t y);
+cell_t *maze_get_cell(uint8_t x, uint8_t y);
+
+void flood_fill(int x, int y);
 
 void maze_init(uint8_t target_x, uint8_t target_y);
 void maze_print(void);

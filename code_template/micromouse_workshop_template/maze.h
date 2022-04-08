@@ -12,6 +12,9 @@
 #define X_POS(x)  (x & 0x0F)
 #define Y_POS(y)  ((y << 4) & 0xF0)
 
+#define GET_X_POS(x)  (x & 0x0F)
+#define GET_Y_POS(y)  (y >> 4)
+
 #define NORTH   (1 << 0)
 #define EAST    (1 << 1)
 #define SOUTH   (1 << 2)

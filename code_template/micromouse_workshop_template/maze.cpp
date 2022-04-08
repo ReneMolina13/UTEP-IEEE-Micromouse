@@ -163,6 +163,10 @@ void maze_print(void)
   }
 }
 
+/*FlOOD FILL CODE GOES HERE***************************************************/
+
+/*FlOOD FILL ENDS HERE********************************************************/
+
 void mouse_set_x(int8_t x)
 {
   if(x > (MAZE_WIDTH - 1)) { x = MAZE_WIDTH - 1; }
