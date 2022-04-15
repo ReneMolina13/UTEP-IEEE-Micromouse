@@ -40,6 +40,7 @@ int8_t maze_set_wall(uint8_t x, uint8_t y, uint8_t wall);
 int8_t maze_get_walls(uint8_t x, uint8_t y);
 int8_t maze_set_value(uint8_t x, uint8_t y, uint8_t value);
 int8_t maze_get_value(uint8_t x, uint8_t y);
+cell_t *maze_get_cell(uint8_t x, uint8_t y);
 
 void maze_init(uint8_t target_x, uint8_t target_y);
 void maze_print(void);

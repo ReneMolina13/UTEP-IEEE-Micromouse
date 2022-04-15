@@ -50,6 +50,13 @@ int8_t maze_get_value(uint8_t x, uint8_t y)
    return maze[x][y].value;
 }
 
+cell_t *maze_get_cell(uint8_t x, uint8_t y)
+{
+    if(CHECK_BOUNDARIES(x, y)) return NULL;
+    
+    return &maze[x][y];
+}
+
 void maze_init(uint8_t target_x, uint8_t target_y)
 {
   if(CHECK_BOUNDARIES(target_x, target_y)) return;
